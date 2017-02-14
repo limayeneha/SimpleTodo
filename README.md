@@ -1,8 +1,8 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Simple ToDo*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Neha Limaye**
 
 Time spent: **X** hours spent in total
 
@@ -30,10 +30,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+http://i.imgur.com/gbNhf06.gifv
 
-http://imgur.com/a/lU8i5
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
